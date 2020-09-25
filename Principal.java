@@ -7,7 +7,7 @@ public class Principal {
 		
 		Auto miAuto;
 		
-		miAuto = new Auto("Azul",5);
+		miAuto = new Auto("Naranja",5);
 		
 		System.out.println("Mi auto es: "+ miAuto.getColor());
 		
